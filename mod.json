@@ -1,0 +1,11 @@
+{
+  "folium": 1,
+  "id": "astral-atlas",
+  "name": "星图仪 · Astral Atlas",
+  "version": "1.7.0",
+  "author": "Wallpaper Studio",
+  "description": "浑天仪内轨：柔和频谱星尘、按歌词时间逐字显现、上下轨反向移动与独立速度；保留日夜、关键词层次和译文留白，移除重复的底部播放信息。",
+  "client": "client.mjs",
+  "preview": "preview.webp",
+  "folia": ">=0.7.28 <0.8.0"
+}
